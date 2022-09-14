@@ -59,7 +59,7 @@ body{
 
 .login-button button{
     border: nome;
-    background-color: #6c63ff;
+    background-color: aqua;
     padding: 0.4rem 1rem;
     border-radius: 5px;
     cursor: pointer;
